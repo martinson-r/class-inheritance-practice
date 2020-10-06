@@ -14,7 +14,6 @@ class Manager extends Employee {
     //run reduce on that array
 
     bonus(multiplier) {
-
         if () {
         this.totalSalaries = employeeArray.reduce ((salaries, currentElement) => {
             return salaries+= currentElement.salary;
